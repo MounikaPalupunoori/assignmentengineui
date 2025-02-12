@@ -1,0 +1,26 @@
+{
+    "app": {
+        "ASSESSMENT": "Assessment",
+        "ENGINE": "Engine"
+    },
+    "auth": {
+        "EMAIL_FIELD_PLACEHOLDER_TEXT": "Enter Email",
+        "PASSWORD_FIELD_PLACEHOLDER_TEXT": "Enter Password",
+        "EMAIL_FIELD_TEXT": "Email",
+        "PASSWORD_FIELD_TEXT": "Password",
+        "INVALID_EMAIL_TEXT": "Invalid Email",
+        "signin": {
+            "SIGNIN_TEXT": "Sign in",
+            "FORGOT_PASSWORD_TEXT": "Forgot password?",
+            "ACCOUNT_SIGNUP_TEXT": "Create new account",
+            "LOGIN_BUTTON_TEXT": "Login"
+        },
+        "signup": {
+            "SIGNUP_TEXT": "Sign up",
+            "ACCOUNT_SIGNIN_TEXT": "Already have an account? Login",
+            "SIGNUP_BUTTON_GET_OTP_TEXT": "Send OTP",
+            "SIGNUP_BUTTON_VERIFY_OTP_TEXT": "Verify OTP",
+            "SIGNUP_BUTTON_SIGNUP_TEXT": "Sign Up"
+        }
+    }
+}

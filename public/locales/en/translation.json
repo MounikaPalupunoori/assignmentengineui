@@ -1,0 +1,62 @@
+{
+    "app": {
+        "ASSESSMENT": "Assessment",
+        "ENGINE": "Engine"
+    },
+    "auth": {
+        "EMAIL_FIELD_TEXT": "Email",
+        "PASSWORD_FIELD_TEXT": "Password",
+        "CONFIRM_PASSWORD_FIELD_TEXT": "Confirm Password",
+        "OTP_FIELD_TEXT": "OTP",
+        "EMAIL_FIELD_PLACEHOLDER_TEXT": "Enter Email",
+        "PASSWORD_FIELD_PLACEHOLDER_TEXT": "Enter Password",
+        "CONFIRM_PASSWORD_FIELD_PLACEHOLDER_TEXT": "Re-enter Password",
+        "OTP_FIELD_PLACEHOLDER_TEXT": "Enter OTP",
+        "INVALID_EMAIL_TEXT": "Invalid Email",
+        "INVALID_PASSWORD_TEXT": "Password must contain atleast one lowercase and one uppercase letters, atleast one digit and one special character.",
+        "INVALID_OTP_TEXT": "Must be 6 digits",
+        "INVALID_CONFIRM_PASSWORD_TEXT": "Passwords did not match",
+        "GENERATE_OTP_ERROR": "Invalid email",
+        "signin": {
+            "SIGNIN_TEXT": "Sign in",
+            "FORGOT_PASSWORD_TEXT": "Forgot password?",
+            "ACCOUNT_SIGNUP_TEXT": "Create account",
+            "LOGIN_BUTTON_TEXT": "Login"
+        },
+        "signup": {
+            "SIGNUP_TEXT": "Sign up",
+            "ACCOUNT_SIGNIN_TEXT": "Sign in",
+            "SIGNUP_BUTTON_SEND_OTP_TEXT": "Send OTP",
+            "SIGNUP_BUTTON_FINISH_SIGNUP_TEXT": "Finsih Signup"
+        },
+        "reset": {
+            "FORGOT_TEXT": "Reset Password",
+            "FORGOT_BUTTON_SEND_OTP_TEXT": "Send OTP",
+            "FORGOT_BUTTON_FINISH_RESET_PASSWORD_TEXT": "Finish Reset"
+        }
+    },
+    "instructions": {
+        "EXAM_GENERAL_INFORMATION_TITLE": "General Information & Instructions",
+        "EXAM_DETAILS_TITTLE": "Exam Details",
+        "START_BUTTON": "Start Exam",
+        "TEXT_CONTENT_T1": "Please make sure to have a proper and stable network connection.",
+        "TEXT_CONTENT_T2": "This is timed test. Please try to continue the exam without interrupting during the test.",
+        "TEXT_CONTENT_T3": "Your actions through-out the test are going to be monitored. Please make sure to answer the test with your knowledge.",
+        "TEXT_CONTENT_T4": "Each question has four options, and the candidate has to click the appropriate option.",
+        "COURSE_NAME": "Course Name",
+        "EXAM_START_DATE": "Start Date",
+        "EXAM_END_DATE": "End Date",
+        "EXAM_LEVEL": "Level",
+        "EXAM_DURATION": "Duration"
+    },
+    "exam": {
+        "DURATION_FIELD_TEXT": "Duration",
+        "TITLE_FIELD_TEXT": "Title",
+        "LEVEL_FIELD_TEXT": "Exam Level",
+        "COURSES_FIELD_TEXT": "Courses",
+        "EXAM_TYPE_FIELD_TEXT": "Exam Type",
+        "END_DATE_FIELD_TEXT": "End Date",
+        "IMAGE_FIELD_TEXT": "Image",
+        "QUESTIONS_FIELD_TEXT": "Choose one mode to generate questions"
+    }
+}
